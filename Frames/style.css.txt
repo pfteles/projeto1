@@ -1,0 +1,345 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1583px;
+height: 3460px;
+
+background: #FFFFFF;
+
+
+
+
+/* Navbar */
+
+position: absolute;
+width: 1583px;
+height: 63px;
+left: 0px;
+top: 0px;
+
+background: #343A40;
+
+
+
+/* HOME */
+
+position: absolute;
+width: 180px;
+height: 42px;
+left: 480px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 34px;
+text-align: center;
+
+color: #FBF4F4;
+
+
+
+/* SOBRE NÓS */
+
+position: absolute;
+width: 180px;
+height: 42px;
+left: 650px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 34px;
+text-align: center;
+
+color: #FBF4F4;
+
+
+
+/* MOVEIS */
+
+position: absolute;
+width: 180px;
+height: 42px;
+left: 820px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 34px;
+text-align: center;
+
+color: #FBF4F4;
+
+
+
+/* CONTACT US */
+
+position: absolute;
+width: 180px;
+height: 42px;
+left: 990px;
+top: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 29px;
+line-height: 34px;
+text-align: center;
+
+color: #FBF4F4;
+
+
+
+
+
+
+/* Pesquisar */
+
+position: absolute;
+width: 178px;
+height: 35px;
+left: 1250px;
+top: 15px;
+
+background: #FAF1F1;
+
+/* imagem3 Carrosel */
+
+position: absolute;
+width: 1583px;
+height: 555px;
+left: 0px;
+top: 63px;
+
+background: url(imagem3.jpg);
+
+
+
+/* Text1*/
+
+
+
+position: absolute;
+width: 700px;
+height: 54px;
+left: 451px;
+top: 694px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* backgroung text1*/
+
+position: absolute;
+width: 1187px;
+height: 287px;
+left: 207px;
+top: 688px;
+
+background: #EEEEEE;
+
+
+/* Desing */
+
+position: absolute;
+width: 190px;
+height: 75px;
+left: 33px;
+top: 1119px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* banner1 1 */
+
+position: absolute;
+width: 1250px;
+height: 352px;
+left: 156px;
+top: 1264px;
+
+background: url(banner1.jpg);
+
+
+
+
+/* banner2 1 */
+
+position: absolute;
+width: 1250px;
+height: 352px;
+right: 177px;
+top: 1711px;
+
+background: url(banner2.jpg);
+
+
+/* Background Blog */
+
+position: absolute;
+width: 1583px;
+height: 738px;
+left: 0px;
+top: 2187px;
+
+background: #EEEEE0;
+
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 631px;
+height: 503px;
+left: 467px;
+top: 2236px;
+
+background: #C4C4C4;
+
+
+/* blog2 1 */
+
+position: absolute;
+width: 631px;
+height: 498px;
+left: 485px;
+top: 2241px;
+
+background: url(blog2.jpg);
+
+
+position: absolute;
+width: 509px;
+height: 54px;
+left: 537px;
+top: 2779px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Conheça mais projetos */
+
+position: absolute;
+width: 439px;
+height: 76px;
+left: 581px;
+top: 2976px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 235px;
+height: 48px;
+left: 683px;
+top: 2963px;
+
+background: #C4C4C4;
+
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1583px;
+height: 221px;
+left: 0px;
+top: 3055px;
+
+background: #0D0D0D;
+
+
+/* Nome/email */
+
+position: absolute;
+width: 264px;
+height: 52px;
+left: 683px;
+top: 3090px;
+
+background: #FFFCFC;
+
+
+/* Newsletter */
+
+position: absolute;
+width: 231px;
+height: 24px;
+left: 379px;
+top: 3137px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #FFFBFB;
+
+/* Twitter/Insta/Face */
+
+position: absolute;
+width: 140px;
+height: 10px;
+left: 732px;
+top: 3288px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+
+
+
+
+
+
